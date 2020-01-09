@@ -1,0 +1,134 @@
+[
+    {
+      "image_url": "assets/dress.jpeg",
+      "type":"Misty Pink",
+      "title": "Misty Pink Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress3.jpeg",
+      "type":"Jet Black",
+      "title": "Jet Black Dress",
+      "price": 399
+    },
+    {
+      "image_url": "assets/dress1.jpeg",
+      "type":"Metior Grey",
+      "title": "Lilac Breeze",
+      "price": 390
+    },
+    {
+      "image_url": "assets/dress2.jpeg",
+      "type":"Metior Grey",
+      "title": "Metior Grey Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Metior Grey",
+      "title": "Aqua Green Dress",
+      "price": 399
+    },
+    {
+      "image_url": "assets/dress2.jpeg",
+      "type":"Metior Grey",
+      "title": "Metior Grey Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress3.jpeg",
+      "type":"Jet Black",
+      "title": "Jet Black Dress",
+      "price": 445
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 400
+    },
+    {
+      "image_url": "assets/dress2.jpeg",
+      "type":"Metior Grey",
+      "title": "Metior Grey Dress",
+      "price": 659
+    },
+    {
+      "image_url": "assets/dress.jpeg",
+      "type":"Misty Pink",
+      "title": "Misty Pink Dress",
+      "price": 399
+    },
+    {
+      "image_url": "assets/dress3.jpeg",
+      "type":"Jet Black",
+      "title": "Jet Black Dress",
+      "price": 441
+    },
+    {
+      "image_url": "assets/dress.jpeg",
+      "type":"Misty Pink",
+      "title": "Misty Pink Dress",
+      "price": 399
+    },
+    {
+      "image_url": "assets/dress2.jpeg",
+      "type":"Metior Grey",
+      "title": "Metior Grey Dress",
+      "price": 399
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 341
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 349
+    },
+    {
+      "image_url": "assets/dress3.jpeg",
+      "type":"Jet Black",
+      "title": "Jet Black Dress",
+      "price": 342
+    },
+    {
+      "image_url": "assets/dress4.jpeg",
+      "type":"Aqua Green",
+      "title": "Aqua Green Dress",
+      "price": 449
+    },
+    {
+      "image_url": "assets/dress.jpeg",
+      "type":"Misty Pink",
+      "title": "Misty Pink Dress",
+      "price": 400
+    },
+    {
+      "image_url": "assets/dress3.jpeg",
+      "type": "Jet Black",
+      "title":"Jet Black Dress",
+      "price": 499
+    },
+    {
+      "image_url": "assets/dress2.jpeg",
+      "type":"Metior Grey",
+      "title": "Metior Grey Dress",
+      "price": 355
+    }
+  ]

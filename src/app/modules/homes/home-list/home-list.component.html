@@ -1,0 +1,8 @@
+<div *ngIf="dress.loading">
+    <div uk-spinner="ratio: 3"  ></div>
+</div>
+<div class="uk-grid-match uk-child-width-1-4" uk-grid>
+    <div *ngFor="let dress of dress.data">
+        <app-home [dress]="dress"></app-home>
+    </div>
+</div>
